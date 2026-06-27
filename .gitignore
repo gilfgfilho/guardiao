@@ -1,0 +1,28 @@
+# Delphi
+*.dcu
+*.dcp
+*.local
+*.identcache
+*.stat
+*.tvsconfig
+*.skincfg
+*.exe
+*.dll
+*.bpl
+*.map
+*.tds
+*.drc
+*.res
+Win32/
+Win64/
+__history/
+__recovery/
+
+# Boss (dependencias instaladas localmente)
+api/modules/
+
+# Configuracao com token
+api/config.ini
+
+# Arquivos gerados
+api/executabackup123456.bat

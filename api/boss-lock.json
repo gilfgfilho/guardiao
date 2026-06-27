@@ -1,0 +1,30 @@
+{
+	"hash": "d4438a7cc7873168af6bfed1735de937",
+	"updated": "2026-06-27T10:51:02.1853989-03:00",
+	"installedModules": {
+		"github.com/hashload/horse": {
+			"name": "horse",
+			"version": "3.2.0",
+			"hash": "ac8340f7d5e6f9c03c97a6fc534924b2",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/jhonson": {
+			"name": "jhonson",
+			"version": "1.2.1",
+			"hash": "dda7dc5ade9e50207be4485c5045e47b",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"https://github.com/gabrielbaltazar/gbswagger": {
+			"name": "gbswagger",
+			"version": "3.1.0",
+			"hash": "1d45cb3210674c8eca2d9fe24c675c57",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
